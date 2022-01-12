@@ -34,18 +34,6 @@ Now that you have Python installed on your own machine, you can run the command 
 
 As for the teaching materials for to this workshop, we'll be using Jupyter Notebooks - these are interactive journals that streamline any set-up.
 
-### Cloning the respository
-
-First you'll need to clone the Github repository, but to do this you'll need to install git in a similar way we installed Python. 
-
-Navigate over to the page here https://git-scm.com/downloads and select your operating system to download. Once this has installed, again by following the installation wizard accepting all the default settings, navigate to a brand new terminal/powershell/console window and type ```git``` - this should print the git helper to your screen!
-
-To clone the repository, you'll want to type in the command ```git clone https://github.com/ejones18/techher-coding-workshop.git```in a terminal/powershell/console instance which will bring all the workshop material onto your own machine!
-
-**Note A: This will open up a small authentication window, click on the `sign in in browser` option and then sign into GitHub to continue!**
-
-**Note B: be sure to remember the path to the folder where the content has been cloned to!**
-
 ### Installing the packages
 
 To begin with, we'll need to update the pip package manager! This can be done by running the command ```python -m pip install --upgrade pip``` in the  terminal/powershell/console instance you have open!
