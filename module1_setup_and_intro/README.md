@@ -6,8 +6,6 @@ Before we get started with installing Python, we need to install the latest C++ 
 
 Windows 11 - X64 package
 
-MacOS - ARM64 package
-
 Windows 10 - Check your system architecture by opening a Command Prompt instance and running the command `echo %PROCESSOR_ARCHITECTURE%`. If the result of that is X86 then download the X86 package or if the result is AMD64 then download the X64 package!
 
 Once that has been downloaded, click on the downloaded file and follow the installation wizard to the end - you may require a system restart which is totally fine!
@@ -55,4 +53,6 @@ If preferred, participants can use their browser to interactive with the noteboo
 This creates a Jupyter server for you to access the content through your web browser - to shut the server down, in the terminal where you run the previous hit ctrl+C until the server shuts down.
 
 Happy coding!
+
+Other resources: https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.languages.python-first-steps
 
