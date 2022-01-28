@@ -14,8 +14,9 @@ Viola, after a few seconds you should be there! You'll be able to code alongside
 ### Using Microsoft Teams
 If LiveShare isn't working for you, you can create a Microsoft Teams call for you and your team to join. In the call you can share your screen (icon in the top right-hand corner) and discuss your solution together!
 
-Useful links
-https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/6-exercise-first-application?pivots=windows
+## Useful links
+* https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/6-exercise-first-application?pivots=windows
+
 Good luck!
 
 ~ Ethan
