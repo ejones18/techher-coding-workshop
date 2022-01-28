@@ -7,15 +7,20 @@ This workshop has been designed with accessibility in mind, please take a minute
 
 The Edge 'Read Aloud' functionality is compatible with these README files as well as the Jupyter Notebooks (when run in the browser; keep an eye out in the instructions to see how to do this).
 All content has also been converted to PDFs, again so the 'Read Aloud' functionality can be used.
+
 Visual Studio Code is home to a large range of accessibility considerations including the ability to zoom in and out - https://code.visualstudio.com/docs/editor/accessibility
 
 ## Pre-requisites for the workshop
 To make the most of the time allotted for the workshop, we kindly request that all participants attend having already installed Visual Studio Code as well as the following extensions. Below are links to the downloads:
 
 Visual Studio Code - https://code.visualstudio.com/download
+
 Live Share extension - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack
+
 Python extension - https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
 Jupyter extension - https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
+
 We also kindly request that participants have a GitHub account for ease of accessing the code for the workshop.
 
 ## What does this workshop cover?
