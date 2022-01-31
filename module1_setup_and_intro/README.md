@@ -36,9 +36,9 @@ On the main README for this repository, you will see a green box with the text `
 For the next steps, you'll need a terminal open - to get one go to `Terminal` -> `New terminal` inside Visual Studio Code.
 
 ### Installing the packages
-To begin with, we'll need to update the pip package manager! This can be done by running the command python -m pip install --upgrade pip in the terminal/powershell/console instance you have open!
+To begin with, we'll need to update the pip package manager! This can be done by running the command `python -m pip install --upgrade pip` in the terminal/powershell/console instance you have open!
 
-To install the packages required for this workshop, run the command pip install -r "requirements.txt" in a terminal instance within Visual Studio Code, after you've opened up the folder you've just cloned. This may take a few minutes due to packages we are using so don't worry if it takes a bit of time!
+To install the packages required for this workshop, run the command `pip install -r "requirements.txt"` in a terminal instance within Visual Studio Code, after you've opened up the folder you've just cloned. This may take a few minutes due to packages we are using so don't worry if it takes a bit of time!
 
 ### Using Visual Studio Code with the learning material - suggested
 Now that everything is installed and ready for use, let's look at how we actually use it!
